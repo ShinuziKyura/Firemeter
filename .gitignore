@@ -1,0 +1,13 @@
+# JetBrains
+.idea/
+_ReSharper.Caches/
+
+# Visual Studio
+.vs/
+*.sln
+
+# Unreal Engine 4
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
