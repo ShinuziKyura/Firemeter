@@ -1,0 +1,3 @@
+[submodule "Plugins/UE4StarterContent"]
+	path = Plugins/UE4StarterContent
+	url = git@github.com:ShinuziKyura/UE4StarterContent.git
